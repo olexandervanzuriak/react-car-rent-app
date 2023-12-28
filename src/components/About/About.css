@@ -1,0 +1,19 @@
+.about {
+    position: absolute;
+    margin-top: 20ch;
+    margin-left: 20ch;
+}
+
+.text-about {
+    float: left;
+    margin-right: 5ch;
+}
+
+.car1 {
+    max-height: 100%;
+	max-width: 100%;
+	background-size: cover;
+    border-radius: 5px;
+    mix-blend-mode: multiply;
+	float: left;
+}
