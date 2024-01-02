@@ -18,7 +18,7 @@ export const Header = () => {
       </div>
       <div className="register">
         <a>Sign up</a>
-        <Button text="Register"></Button>
+        <Button className="button" text="Register"></Button>
       </div>
     </div>
   );
