@@ -1,0 +1,27 @@
+.form {
+    margin-top: 15%;
+}
+
+.car-form {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    height: 25ch;
+    width: 80%;
+    position: absolute;
+    margin-left: 10%;
+}
+
+.input-box {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.button-div {
+    margin-top: 30px;
+}
+
+.icon {
+    color: red;
+}
+
+.book-car-text {}
