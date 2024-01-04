@@ -1,0 +1,33 @@
+.benefits {
+    position: relative;
+    margin-top: 20ch;
+}
+
+.benefits h2 {
+    font-size: 35px;
+}
+
+.benefits h1 {
+    font-size: 40px;
+}
+
+.information {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin-top: 15ch;
+    width: 70%;
+    margin-left: 15%;
+}
+
+.information-part h1 {
+    font-size: 40px;
+}
+
+.information p {
+    font-size: large;
+}
+
+.icons {
+    font-size: 40px;
+    color: red;
+}
